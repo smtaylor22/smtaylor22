@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smtaylor22
 - 👀 I’m interested in Full Stack Web App Development
-- 🌱 I’m currently learning Algorithms 
+- 🌱 I’m currently taking a complexity and computation class on Algorithms
 - 📫 How to reach me Twitter @devotedhigher
 
 <!---
